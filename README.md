@@ -1,176 +1,182 @@
-<h1 align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="user-content----------localai" class="anchor" aria-hidden="true" tabindex="-1" href="#---------localai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
   <br>
-  <img height="300" src="https://github.com/go-skynet/LocalAI/assets/2420543/0966aa2a-166e-4f99-a3e5-6c915fc997dd"> <br>
-    LocalAI
-<br>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/go-skynet/LocalAI/assets/2420543/0966aa2a-166e-4f99-a3e5-6c915fc997dd"><img height="300" src="https://github.com/go-skynet/LocalAI/assets/2420543/0966aa2a-166e-4f99-a3e5-6c915fc997dd" style="max-width: 100%;"></a> <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    LocalAI  （本地人工智能--土的掉渣的翻译，可以叫 罗锅AI）
+</font></font><br>
 </h1>
-
-<p align="center">
-<a href="https://github.com/go-skynet/LocalAI/fork" target="blank">
-<img src="https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI forks"/>
+<p align="center" dir="auto">
+<a href="https://github.com/go-skynet/LocalAI/fork">
+<img src="https://camo.githubusercontent.com/cb1be8210ceb1663eb0fde733a27aec215e4a0b810627f6f7550bb2b59c4fe29/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f676f2d736b796e65742f4c6f63616c41493f7374796c653d666f722d7468652d6261646765" alt="LocalAI 分叉" data-canonical-src="https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge" style="max-width: 100%;">
 </a>
-<a href="https://github.com/go-skynet/LocalAI/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI stars"/>
+<a href="https://github.com/go-skynet/LocalAI/stargazers">
+<img src="https://camo.githubusercontent.com/0c965a25b20b6b41562b14fcf67f5959379e2f2f728d9a735eb08ed5b1da2d11/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f676f2d736b796e65742f4c6f63616c41493f7374796c653d666f722d7468652d6261646765" alt="LocalAI 明星" data-canonical-src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge" style="max-width: 100%;">
 </a>
-<a href="https://github.com/go-skynet/LocalAI/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI pull-requests"/>
+<a href="https://github.com/go-skynet/LocalAI/pulls">
+<img src="https://camo.githubusercontent.com/9bf5ac412ac5a7a665927474b084da21cf61beeb8e3cb0e8b378ab376a31edae/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f676f2d736b796e65742f4c6f63616c41493f7374796c653d666f722d7468652d6261646765" alt="LocalAI 拉取请求" data-canonical-src="https://img.shields.io/github/issues-pr/go-skynet/LocalAI?style=for-the-badge" style="max-width: 100%;">
 </a>
-<a href='https://github.com/go-skynet/LocalAI/releases'>
-<img src='https://img.shields.io/github/release/go-skynet/LocalAI?&label=Latest&style=for-the-badge'>
+<a href="https://github.com/go-skynet/LocalAI/releases">
+<img src="https://camo.githubusercontent.com/9999c1ce7c4b61713b537034b6cbefea1a22c4159c9ae20f0d82459c601fc25d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f676f2d736b796e65742f4c6f63616c41493f266c6162656c3d4c6174657374267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/release/go-skynet/LocalAI?&amp;label=Latest&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 </p>
-
-[<img src="https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker">](https://hub.docker.com/r/localai/localai)
-[<img src="https://img.shields.io/badge/quay.io-images-important.svg?">](https://quay.io/repository/go-skynet/local-ai?tab=tags&tag=latest)
-
-> :bulb: Get help - [❓FAQ](https://localai.io/faq/) [💭Discussions](https://github.com/go-skynet/LocalAI/discussions) [:speech_balloon: Discord](https://discord.gg/uJAeKSAGDy) [:book: Documentation website](https://localai.io/)
->
-> [💻 Quickstart](https://localai.io/basics/getting_started/) [📣 News](https://localai.io/basics/news/) [ 🛫 Examples ](https://github.com/go-skynet/LocalAI/tree/master/examples/) [ 🖼️ Models ](https://localai.io/models/) [ 🚀 Roadmap ](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
-
-[![tests](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml)[![Build and Release](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml)[![build container images](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml)[![Bump dependencies](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml)[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/localai)](https://artifacthub.io/packages/search?repo=localai)
-
-<p align="center">
-<a href="https://twitter.com/LocalAI_API" target="blank">
-<img src="https://img.shields.io/twitter/follow/LocalAI_API?label=Follow: LocalAI_API&style=social" alt="Follow LocalAI_API"/>
+<p dir="auto"><a href="https://hub.docker.com/r/localai/localai" rel="nofollow"><img src="https://camo.githubusercontent.com/d92316f1b548eed6c9cc1e26fce70ebfd2908fb6125a4c27498f3ed76d61f098/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65726875622d696d616765732d696d706f7274616e742e7376673f6c6f676f3d446f636b6572" data-canonical-src="https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker" style="max-width: 100%;"></a>
+<a href="https://quay.io/repository/go-skynet/local-ai?tab=tags&amp;tag=latest" rel="nofollow"><img src="https://camo.githubusercontent.com/14d291f4d438dab895f3d283ade80de709f1877dcb08ff59ef5d0b180dca94ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f717561792e696f2d696d616765732d696d706f7274616e742e7376673f" data-canonical-src="https://img.shields.io/badge/quay.io-images-important.svg?" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡 获取帮助 - </font></font><a href="https://localai.io/faq/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓常见</font></font></a> <a href="https://github.com/go-skynet/LocalAI/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题解答 💭讨论</font></font></a> <a href="https://discord.gg/uJAeKSAGDy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 Discord </font></font></a> <a href="https://localai.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 文档网站</font></font></a></p>
+<p dir="auto"><a href="https://localai.io/basics/getting_started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 快速入门</font></font></a> <a href="https://localai.io/basics/news/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📣 新闻</font></font></a> <a href="https://github.com/go-skynet/LocalAI/tree/master/examples/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛫 示例</font></font></a> <a href="https://localai.io/models/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖼️ 模型</font></font></a> <a href="https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 路线图</font></font></a></p>
+</blockquote>
+<p dir="auto"><a href="https://github.com/go-skynet/LocalAI/actions/workflows/test.yml"><img src="https://github.com/go-skynet/LocalAI/actions/workflows/test.yml/badge.svg" alt="测试" style="max-width: 100%;"></a><a href="https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml"><img src="https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml/badge.svg" alt="构建和发布" style="max-width: 100%;"></a><a href="https://github.com/go-skynet/LocalAI/actions/workflows/image.yml"><img src="https://github.com/go-skynet/LocalAI/actions/workflows/image.yml/badge.svg" alt="构建容器镜像" style="max-width: 100%;"></a><a href="https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml"><img src="https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml/badge.svg" alt="凹凸依赖性" style="max-width: 100%;"></a><a href="https://artifacthub.io/packages/search?repo=localai" rel="nofollow"><img src="https://camo.githubusercontent.com/5020ab184475facb276d9bee31650334f7c930d1ab60cd7fb746dded03f4aeb6/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f61727469666163746875622e696f2f62616467652f7265706f7369746f72792f6c6f63616c6169" alt="神器中心" data-canonical-src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/localai" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+<a href="https://twitter.com/LocalAI_API" rel="nofollow">
+<img src="https://camo.githubusercontent.com/f4bf099e2bf166fd4469c3f812ed179b444c5af4a53e016e874f53b945c4d8f3/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4c6f63616c41495f4150493f6c6162656c3d466f6c6c6f773a204c6f63616c41495f415049267374796c653d736f6369616c" alt="关注LocalAI_API" data-canonical-src="https://img.shields.io/twitter/follow/LocalAI_API?label=Follow: LocalAI_API&amp;style=social" style="max-width: 100%;">
 </a>
-<a href="https://discord.gg/uJAeKSAGDy" target="blank">
-<img src="https://dcbadge.vercel.app/api/server/uJAeKSAGDy?style=flat-square&theme=default-inverted" alt="Join LocalAI Discord Community"/>
+<a href="https://discord.gg/uJAeKSAGDy" rel="nofollow">
+<img src="https://camo.githubusercontent.com/1f6684ea141a6dd67b442bddb7ebc5d1a70b5efa42bbaea4e42a0859d0c3cfb2/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f754a41654b53414744793f7374796c653d666c61742d737175617265267468656d653d64656661756c742d696e766572746564" alt="加入 LocalAI Discord 社区" data-canonical-src="https://dcbadge.vercel.app/api/server/uJAeKSAGDy?style=flat-square&amp;theme=default-inverted" style="max-width: 100%;">
 </a>
-
-**LocalAI** is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU.
-
-## 🔥🔥 Hot topics / Roadmap
-
-[Roadmap](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
-
-- Mamba support: https://github.com/mudler/LocalAI/pull/1589
-- Start and share models with config file: https://github.com/mudler/LocalAI/pull/1522
-- 🐸 Coqui: https://github.com/mudler/LocalAI/pull/1489
-- Inline templates: https://github.com/mudler/LocalAI/pull/1452
-- Mixtral: https://github.com/mudler/LocalAI/pull/1449
-- Img2vid https://github.com/mudler/LocalAI/pull/1442
-- Musicgen https://github.com/mudler/LocalAI/pull/1387
-
-Hot topics (looking for contributors):
-- Backends v2: https://github.com/mudler/LocalAI/issues/1126
-- Improving UX v2: https://github.com/mudler/LocalAI/issues/1373
-
-If you want to help and contribute, issues up for grabs: https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22
-
-## 💻 [Getting started](https://localai.io/basics/getting_started/index.html)
-
-## 🚀 [Features](https://localai.io/features/)
-
-- 📖 [Text generation with GPTs](https://localai.io/features/text-generation/) (`llama.cpp`, `gpt4all.cpp`, ... [:book: and more](https://localai.io/model-compatibility/index.html#model-compatibility-table))
-- 🗣 [Text to Audio](https://localai.io/features/text-to-audio/)
-- 🔈 [Audio to Text](https://localai.io/features/audio-to-text/) (Audio transcription with `whisper.cpp`)
-- 🎨 [Image generation with stable diffusion](https://localai.io/features/image-generation)
-- 🔥 [OpenAI functions](https://localai.io/features/openai-functions/) 🆕
-- 🧠 [Embeddings generation for vector databases](https://localai.io/features/embeddings/)
-- ✍️ [Constrained grammars](https://localai.io/features/constrained_grammars/)
-- 🖼️ [Download Models directly from Huggingface ](https://localai.io/models/)
-- 🆕 [Vision API](https://localai.io/features/gpt-vision/)
-
-## 💻 Usage
-
-Check out the [Getting started](https://localai.io/basics/getting_started/index.html) section in our documentation.
-
-### 🔗 Community and integrations
-
-Build and deploy custom containers:
-- https://github.com/sozercan/aikit
-
-WebUIs:
-- https://github.com/Jirubizu/localai-admin
-- https://github.com/go-skynet/LocalAI-frontend
-
-Model galleries
-- https://github.com/go-skynet/model-gallery
-
-Other:
-- Helm chart https://github.com/go-skynet/helm-charts
-- VSCode extension https://github.com/badgooooor/localai-vscode-plugin
-- Local Smart assistant https://github.com/mudler/LocalAGI
-- Home Assistant https://github.com/sammcj/homeassistant-localai / https://github.com/drndos/hass-openai-custom-conversation
-- Discord bot https://github.com/mudler/LocalAGI/tree/main/examples/discord
-- Slack bot https://github.com/mudler/LocalAGI/tree/main/examples/slack
-- Telegram bot https://github.com/mudler/LocalAI/tree/master/examples/telegram-bot
-- Examples: https://github.com/mudler/LocalAI/tree/master/examples/
-
-### 🔗 Resources
-
-- 🆕 New! [LLM finetuning guide](https://localai.io/advanced/fine-tuning/)
-- [How to build locally](https://localai.io/basics/build/index.html)
-- [How to install in Kubernetes](https://localai.io/basics/getting_started/index.html#run-localai-in-kubernetes)
-- [Projects integrating LocalAI](https://localai.io/integrations/)
-- [How tos section](https://io.midori-ai.xyz/howtos/) (curated by our community)
-
-## :book: 🎥 [Media, Blogs, Social](https://localai.io/basics/news/#media-blogs-social)
-
-- [Create a slackbot for teams and OSS projects that answer to documentation](https://mudler.pm/posts/smart-slackbot-for-teams/)
-- [LocalAI meets k8sgpt](https://www.youtube.com/watch?v=PKrDNuJ_dfE)
-- [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://mudler.pm/posts/localai-question-answering/)
-- [Tutorial to use k8sgpt with LocalAI](https://medium.com/@tyler_97636/k8sgpt-localai-unlock-kubernetes-superpowers-for-free-584790de9b65)
-
-## Citation
-
-If you utilize this repository, data in a downstream project, please consider citing it with:
-
-```
-@misc{localai,
+</p><p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LocalAI</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是免费的开源 OpenAI 替代品。</font><font style="vertical-align: inherit;">LocalAI 充当 REST API 的直接替代品，与本地推理的 OpenAI API 规范兼容。</font><font style="vertical-align: inherit;">它允许您使用消费级硬件在本地或本地运行 LLM、生成图像、音频（不仅如此），支持多个模型系列。</font><font style="vertical-align: inherit;">不需要 GPU。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--hot-topics--roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#-hot-topics--roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔥🔥 热门话题/路线图</font></font></h2>
+<p dir="auto"><a href="https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">曼巴支持：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2080643012" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1589" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1589/hovercard" href="https://github.com/mudler/LocalAI/pull/1589"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1589</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用配置文件启动并共享模型：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2061115334" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1522" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1522/hovercard" href="https://github.com/mudler/LocalAI/pull/1522"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1522</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐸 厨师：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2055129939" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1489" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1489/hovercard" href="https://github.com/mudler/LocalAI/pull/1489"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1489</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内联模板：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2045004534" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1452" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1452/hovercard" href="https://github.com/mudler/LocalAI/pull/1452"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1452</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">混合：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2044780951" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1449" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1449/hovercard" href="https://github.com/mudler/LocalAI/pull/1449"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1449</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Img2vid </font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2042660375" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1442" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1442/hovercard" href="https://github.com/mudler/LocalAI/pull/1442"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1442</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音乐生成</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2025150905" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1387" data-hovercard-type="pull_request" data-hovercard-url="/mudler/LocalAI/pull/1387/hovercard" href="https://github.com/mudler/LocalAI/pull/1387"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1387</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">热门话题（寻找贡献者）：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端 v2：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1921642771" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1126" data-hovercard-type="issue" data-hovercard-url="/mudler/LocalAI/issues/1126/hovercard" href="https://github.com/mudler/LocalAI/issues/1126"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1126</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进用户体验 v2：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2021258890" data-permission-text="Title is private" data-url="https://github.com/mudler/LocalAI/issues/1373" data-hovercard-type="issue" data-hovercard-url="/mudler/LocalAI/issues/1373/hovercard" href="https://github.com/mudler/LocalAI/issues/1373"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1373</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想提供帮助和贡献，请提交问题：</font></font><a href="https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/mudler/LocalAI/issues?q =is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#-getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font><a href="https://localai.io/basics/getting_started/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用</font></font></a></h2>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀</font></font><a href="https://localai.io/features/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特点</font></font></a></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font><a href="https://localai.io/features/text-generation/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 GPT 生成文本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><code>llama.cpp</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、、</font></font><code>gpt4all.cpp</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... </font></font><a href="https://localai.io/model-compatibility/index.html#model-compatibility-table" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 等等</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣</font></font><a href="https://localai.io/features/text-to-audio/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本转音频</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔈</font></font><a href="https://localai.io/features/audio-to-text/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音频转文本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（带有 的音频转录</font></font><code>whisper.cpp</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨</font></font><a href="https://localai.io/features/image-generation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">具有稳定扩散的图像生成</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔥 </font></font><a href="https://localai.io/features/openai-functions/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenAI 功能</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🆕</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧠</font></font><a href="https://localai.io/features/embeddings/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">矢量数据库的嵌入生成</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✍️</font></font><a href="https://localai.io/features/constrained_grammars/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">约束语法</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖼️</font></font><a href="https://localai.io/models/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">直接从 Huggingface 下载模型</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🆕</font></font><a href="https://localai.io/features/gpt-vision/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视觉 API</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--usage" class="anchor" aria-hidden="true" tabindex="-1" href="#-usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 用法</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们文档中的</font></font><a href="https://localai.io/basics/getting_started/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content--community-and-integrations" class="anchor" aria-hidden="true" tabindex="-1" href="#-community-and-integrations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗 社区和集成</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建和部署自定义容器：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/sozercan/aikit">https://github.com/sozercan/aikit</a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络用户界面：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/Jirubizu/localai-admin">https://github.com/Jirubizu/localai-admin</a></li>
+<li><a href="https://github.com/go-skynet/LocalAI-frontend">https://github.com/go-skynet/LocalAI-frontend</a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模型画廊</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/go-skynet/model-gallery">https://github.com/go-skynet/model-gallery</a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Helm 图表</font></font><a href="https://github.com/go-skynet/helm-charts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/go-skynet/helm-charts</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VSCode 扩展</font></font><a href="https://github.com/badgooooor/localai-vscode-plugin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/badgooooor/localai-vscode-plugin</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地智能助手</font></font><a href="https://github.com/mudler/LocalAGI"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/mudler/LocalAGI</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">家庭助理</font></font><a href="https://github.com/sammcj/homeassistant-localai"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/sammcj/homeassistant-localai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> / </font></font><a href="https://github.com/drndos/hass-openai-custom-conversation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/drndos/hass-openai-custom-conversation</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 机器人</font></font><a href="https://github.com/mudler/LocalAGI/tree/main/examples/discord"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/mudler/LocalAGI/tree/main/examples/discord</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack 机器人</font></font><a href="https://github.com/mudler/LocalAGI/tree/main/examples/slack"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/mudler/LocalAGI/tree/main/examples/slack</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电报机器人</font></font><a href="https://github.com/mudler/LocalAI/tree/master/examples/telegram-bot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/mudler/LocalAI/tree/master/examples/telegram-bot</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例： https: </font></font><a href="https://github.com/mudler/LocalAI/tree/master/examples/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/mudler/LocalAI/tree/master/examples/</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content--resources" class="anchor" aria-hidden="true" tabindex="-1" href="#-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗 资源</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🆕 新！</font></font><a href="https://localai.io/advanced/fine-tuning/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLM微调指南</font></font></a></li>
+<li><a href="https://localai.io/basics/build/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何本地构建</font></font></a></li>
+<li><a href="https://localai.io/basics/getting_started/index.html#run-localai-in-kubernetes" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何在 Kubernetes 中安装</font></font></a></li>
+<li><a href="https://localai.io/integrations/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成LocalAI的项目</font></font></a></li>
+<li><a href="https://io.midori-ai.xyz/howtos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作方法部分</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（由我们的社区策划）</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-book--media-blogs-social" class="anchor" aria-hidden="true" tabindex="-1" href="#book--media-blogs-social"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 🎥</font></font><a href="https://localai.io/basics/news/#media-blogs-social" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">媒体、博客、社交</font></font></a></h2>
+<ul dir="auto">
+<li><a href="https://mudler.pm/posts/smart-slackbot-for-teams/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为团队和 OSS 项目创建一个响应文档的 slackbot</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=PKrDNuJ_dfE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LocalAI 遇见 k8sgpt</font></font></a></li>
+<li><a href="https://mudler.pm/posts/localai-question-answering/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 LangChain、LocalAI、Chroma 和 GPT4All 对本地文档进行问答</font></font></a></li>
+<li><a href="https://medium.com/@tyler_97636/k8sgpt-localai-unlock-kubernetes-superpowers-for-free-584790de9b65" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 k8sgpt 与 LocalAI 结合使用的教程</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-citation" class="anchor" aria-hidden="true" tabindex="-1" href="#citation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引文</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在下游项目中使用此存储库和数据，请考虑使用以下方式引用它：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>@misc{localai,
   author = {Ettore Di Giacinto},
   title = {LocalAI: The free, Open source OpenAI alternative},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/go-skynet/LocalAI}},
-```
-
-## ❤️ Sponsors
-
-> Do you find LocalAI useful?
-
-Support the project by becoming [a backer or sponsor](https://github.com/sponsors/mudler). Your logo will show up here with a link to your website.
-
-A huge thank you to our generous sponsors who support this project:
-
-| ![Spectro Cloud logo_600x600px_transparent bg](https://github.com/go-skynet/LocalAI/assets/2420543/68a6f3cb-8a65-4a4d-99b5-6417a8905512) |
-|:-----------------------------------------------:|
-|  [Spectro Cloud](https://www.spectrocloud.com/)  |
-|  Spectro Cloud kindly supports LocalAI by providing GPU and computing resources to run tests on lamdalabs!  |
-
-And a huge shout-out to individuals sponsoring the project by donating hardware or backing the project.
-
-- [Sponsor list](https://github.com/sponsors/mudler)
-- JDAM00 (donating HW for the CI)
-
-## 🌟 Star history
-
-[![LocalAI Star history Chart](https://api.star-history.com/svg?repos=go-skynet/LocalAI&type=Date)](https://star-history.com/#go-skynet/LocalAI&Date)
-
-## 📖 License
-
-LocalAI is a community-driven project created by [Ettore Di Giacinto](https://github.com/mudler/).
-
-MIT - Author Ettore Di Giacinto
-
-## 🙇 Acknowledgements
-
-LocalAI couldn't have been built without the help of great software already available from the community. Thank you!
-
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- https://github.com/tatsu-lab/stanford_alpaca
-- https://github.com/cornelk/llama-go for the initial ideas
-- https://github.com/antimatter15/alpaca.cpp
-- https://github.com/EdVince/Stable-Diffusion-NCNN
-- https://github.com/ggerganov/whisper.cpp
-- https://github.com/saharNooby/rwkv.cpp
-- https://github.com/rhasspy/piper
-- https://github.com/cmp-nct/ggllm.cpp
-
-## 🤗 Contributors
-
-This is a community project, a special thanks to our contributors! 🤗
-<a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
-</a>
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@misc{localai,
+  author = {Ettore Di Giacinto},
+  title = {LocalAI: The free, Open source OpenAI alternative},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/go-skynet/LocalAI}}," tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#️-sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤️赞助商</font></font></h2>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您觉得 LocalAI 有用吗？</font></font></p>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/sponsors/mudler"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过成为支持者或赞助商</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来支持该项目</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您的徽标将显示在此处，并带有指向您网站的链接。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非常感谢支持该项目的慷慨赞助商：</font></font></p>
+<table>
+<thead>
+<tr>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/2420543/252143774-68a6f3cb-8a65-4a4d-99b5-6417a8905512.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MDQ4MjgsIm5iZiI6MTcwNTUwNDUyOCwicGF0aCI6Ii8yNDIwNTQzLzI1MjE0Mzc3NC02OGE2ZjNjYi04YTY1LTRhNGQtOTliNS02NDE3YTg5MDU1MTIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTdUMTUxNTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmI3NzY2OTQxY2YxZThmZjUxZmU2M2UxN2M3MjIwZmNmNzFkMWY5MTAwMTUzNmVhOWRkMDc5ODQ2ODY5MDE2NiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.n4FHqDO4nXpXtNhIVjkprcIPq_VSR2TLZrDa6O5orEk"><img src="https://private-user-images.githubusercontent.com/2420543/252143774-68a6f3cb-8a65-4a4d-99b5-6417a8905512.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MDQ4MjgsIm5iZiI6MTcwNTUwNDUyOCwicGF0aCI6Ii8yNDIwNTQzLzI1MjE0Mzc3NC02OGE2ZjNjYi04YTY1LTRhNGQtOTliNS02NDE3YTg5MDU1MTIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTdUMTUxNTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmI3NzY2OTQxY2YxZThmZjUxZmU2M2UxN2M3MjIwZmNmNzFkMWY5MTAwMTUzNmVhOWRkMDc5ODQ2ODY5MDE2NiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.n4FHqDO4nXpXtNhIVjkprcIPq_VSR2TLZrDa6O5orEk" alt="光谱云徽标_600x600px_透明背景" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://www.spectrocloud.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">光谱云</font></font></a></td>
+</tr>
+<tr>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spectro Cloud 通过提供 GPU 和计算资源在 lamdalabs 上运行测试来支持 LocalAI！</font></font></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并向通过捐赠硬件或支持该项目来赞助该项目的个人表示大力支持。</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/sponsors/mudler"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商名单</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JDAM00（为 CI 捐赠硬件）</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--star-history" class="anchor" aria-hidden="true" tabindex="-1" href="#-star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 明星历史</font></font></h2>
+<p dir="auto"><a href="https://star-history.com/#go-skynet/LocalAI&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/268f2f61339910a915ae33281b0af60b397d30aab0ce89a254a95a833284488a/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d676f2d736b796e65742f4c6f63616c414926747970653d44617465" alt="LocalAI Star历史图表" data-canonical-src="https://api.star-history.com/svg?repos=go-skynet/LocalAI&amp;type=Date" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--license" class="anchor" aria-hidden="true" tabindex="-1" href="#-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 许可证</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/mudler/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LocalAI 是由Ettore Di Giacinto</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建的社区驱动项目</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院 - 作者 Ettore Di Giacinto</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--acknowledgements" class="anchor" aria-hidden="true" tabindex="-1" href="#-acknowledgements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙇致谢</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果没有社区已有的优秀软件的帮助，LocalAI 就不可能构建出来。</font><font style="vertical-align: inherit;">谢谢你！</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/ggerganov/llama.cpp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调用.cpp</font></font></a></li>
+<li><a href="https://github.com/tatsu-lab/stanford_alpaca">https://github.com/tatsu-lab/stanford_alpaca</a></li>
+<li><a href="https://github.com/cornelk/llama-go"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/cornelk/llama-go</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解最初的想法</font></font></li>
+<li><a href="https://github.com/antimatter15/alpaca.cpp">https://github.com/antimatter15/alpaca.cpp</a></li>
+<li><a href="https://github.com/EdVince/Stable-Diffusion-NCNN">https://github.com/EdVince/Stable-Diffusion-NCNN</a></li>
+<li><a href="https://github.com/ggerganov/whisper.cpp">https://github.com/ggerganov/whisper.cpp</a></li>
+<li><a href="https://github.com/saharNooby/rwkv.cpp">https://github.com/saharNooby/rwkv.cpp</a></li>
+<li><a href="https://github.com/rhasspy/piper">https://github.com/rhasspy/piper</a></li>
+<li><a href="https://github.com/cmp-nct/ggllm.cpp">https://github.com/cmp-nct/ggllm.cpp</a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contributors" class="anchor" aria-hidden="true" tabindex="-1" href="#-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤗 贡献者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一个社区项目，特别感谢我们的贡献者！</font><font style="vertical-align: inherit;">🤗
+</font></font><a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
+<img src="https://camo.githubusercontent.com/38a48f784cdcea1ee363c905e9b3805c722ea2f834ab153983cd9059fa17d8e8/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d676f2d736b796e65742f4c6f63616c4149" data-canonical-src="https://contrib.rocks/image?repo=go-skynet/LocalAI" style="max-width: 100%;">
+</a></p>
+</article></div>
